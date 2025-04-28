@@ -29,7 +29,9 @@ Margins, paddings, and borders.
 
 
 /* General styling for the body */
+
 body {
+
     font-family: 'Arial', sans-serif; /* Different font for improved readability */
     background-color: #f4f4f9; /* Light background color */
     margin: 0;
@@ -38,7 +40,9 @@ body {
 }
 
 /* Style for the header using an ID */
+
 #main-header {
+
     background-color: #007bff; /* Blue background */
     color: white; /* White text */
     padding: 20px;
@@ -47,7 +51,9 @@ body {
 }
 
 /* Style for paragraphs using a class */
+
 .paragraph {
+
     font-size: 1.2em; /* Slightly larger font size */
     line-height: 1.6; /* Improve readability */
     margin: 20px;
@@ -58,7 +64,9 @@ body {
 }
 
 /* Style for the image */
+
 img {
+
     display: block;
     margin: 20px auto; /* Center the image */
     border: 3px solid #ddd; /* Border around the image */
